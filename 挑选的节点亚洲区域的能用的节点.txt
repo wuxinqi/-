@@ -1,6 +1,9 @@
-https://proxypoolss.tk/clash/proxies?c=CN,HK,TW,KR,JP,SG&type=ss,vmess&speed=30
 
+https://hm2019721.ml/clash/proxies?c=CN,HK,TW&speed=15,30&type=ss
 
+https://hm2019721.ml/clash/proxies?c=CN,HK,TW,KR,JP,SG&speed=15,30&type=ss,vmess
+
+https://pub-api-1.bianyuan.xyz/sub?target=clash&url=https%3A%2F%2Fhm2019721.ml%2Fclash%2Fproxies%3Fc%3DCN%2CHK%2CTW%2CKR%2CJP%2CSG%26speed%3D15%2C30%26type%3Dss%2Cvmess&insert=false&emoji=true&list=false&tfo=false&scv=false&fdn=false&sort=false&new_name=true
 
 
 https://proxypoolss.tk/clash/proxies?c=CN,HK,TW,KR,JP,SG&type=ss,vmess&speed=30
