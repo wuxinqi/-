@@ -1,0 +1,51 @@
+Free Proxies
+ Clash  ShadowRocket  Surge  ?  More
+⭐️ 自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess、trojan节点信息，聚合去重检测后提供节点列表
+
+❗️ 任何使用此开源项目的人须遵守GPL3.0协议，禁止盈利
+
+统计
+目前共有抓取源 1 个， 全部节点 3049 个，ss节点 2914 个，ssr节点 57 个，vmess节点 60 个，trojan节点 18 个
+
+可用节点数量：89
+
+是否开启测速：未开启
+
+最后更新时间：2021-05-11 09:42:04
+
+客户端
+Clash
+
+配置文件 一键导入
+如何筛选等更多信息 >>
+ShadowRocket
+
+复制订阅 常用国家
+如何筛选等更多信息 >>
+Surge
+
+配置文件 一键导入
+更多信息 >>
+?More
+
+使用订阅转换
+☺️
+订阅链接
+❗ 不建议日常使用，节点过多时易造成卡顿，建议筛选后使用订阅转换
+
+⭐️ 筛选方式参考Clash筛选参数
+
+ss	https://free.dswang.ga/ss/sub	复制
+ss-sip002	https://free.dswang.ga/sip002/sub	复制
+ssr	https://free.dswang.ga/ssr/sub	复制
+vmess	https://free.dswang.ga/vmess/sub	复制
+trojan	https://free.dswang.ga/trojan/sub	复制
+欢迎关注tg频道：@peekfun
+
+抓取程序已开源：zu1k/proxypool
+
+本程序为fork版：sansui233/proxypool
+v0.7.0
+
+
+Theme by Sansui233 Powered by Bulma
