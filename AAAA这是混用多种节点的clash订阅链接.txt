@@ -1,2 +1,6 @@
 这是混用多种节点的clash订阅链接
 https://raw.githubusercontent.com/wuxinqi/-/main/hecheng
+
+这是ss订阅链接
+
+https://raw.githubusercontent.com/wuxinqi/-/main/ssjingxuan
