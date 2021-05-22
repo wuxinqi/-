@@ -1,0 +1,14 @@
+下载：
+https://www.kutogroup.com/apps/vpn.html
+工具
+
+2.
+exe文件拖入
+
+3.找到Utils类下的GetVipDays（大约252行）和IsVip（往下大约268）方法，顾名思义，这个方法就是VIP剩余天数和是否VIP的
+
+4.右键-编辑方法，把方法体改成 return 999; 和 return true;
+
+5.右键 编译
+
+6.文件保存模块
