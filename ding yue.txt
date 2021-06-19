@@ -1,0 +1,5 @@
+V2Ray、小火箭订阅地址（订阅链接导入，复制完整地址订阅即可，支持长期更新）：
+https://raw.githubusercontent.com/chfchf0306/jeidian4.18/main/4.18
+
+Clash小猫咪订阅地址（订阅链接导入，复制完整地址订阅即可，支持长期更新）：
+https://raw.githubusercontent.com/chfchf0306/4.18clash/main/Class
